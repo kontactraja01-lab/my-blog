@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Blog</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>My Awesome Blog</h1>
+    <p>Welcome to my corner of the internet.</p>
+  </header>
+
+  <main>
+    <article>
+      <h2>My First Blog Post</h2>
+      <p><em>August 25, 2025</em></p>
+      <p>This is my very first blog post! I'm learning how to build a website from scratch. Exciting things ahead!</p>
+    </article>
+  </main>
+
+  <footer>
+    <p>© 2025 My Blog. All rights reserved.</p>
+  </footer>
+</body>
+</html>
